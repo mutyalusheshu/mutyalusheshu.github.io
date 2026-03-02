@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in plant, soil and environmental sciences, University of Tennessee, 2027 (expected)
+* Ph.D in Plant, Soil and Environmental sciences, University of Tennessee, 2027 (expected)
 * M.S. in Agriculture(Soil science and (Agricultural chemistry), Naini Agriculture Institute, SHUATS, 2022
 * B.S. in Agriculture, Suresh Gyan Vihar University, 2020
 
