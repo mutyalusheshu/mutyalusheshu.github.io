@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in plant, soil and environmental sciences, University of Tennessee, 2027 (expected)
+* M.S. in Agriculture(Soil science and (Agricultural chemistry), Naini Agriculture Institute, SHUATS, 2022
+* B.S. in Agriculture, Suresh Gyan Vihar University, 2020
 
 Work experience
 ======
